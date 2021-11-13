@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwenGovindasamy
 - 👀 I’m interested in Web software development
 - 🌱 I’m currently learning Vue.Js using Cordova
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on literally anything interesting
 - 📫 How to reach me Owenagb@gmail.com
 
 <!---
